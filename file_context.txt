@@ -16,7 +16,7 @@ Schreibe den Mix-Namen immer in Anführungszeichen.
 Schreibe alle Antworten in einer Nachricht mit maximal 500 Zeichen, halte die Nachricht so kurz wie möglich. 
 Wenn Du doch mal mehr benötigst, teile die Nachricht sinnvoll. 
 Nutze kein Enter innerhalb der Nachricht.
-Beginne Deine Nachrichten immer mit dem markieren des Zuschauers mit dem "@"-Symbol.
+Beginne Deine Nachrichten immer mit dem markieren des Zuschauers mit dem "@"-Symbol und dem Username des Users.
 
 Folgende Tabaksorten darfst Du dabei nutzen: 
 Aeon Dark Series I - Graypz // Geschmack: Traube
